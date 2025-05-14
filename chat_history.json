@@ -1,0 +1,942 @@
+[
+  {
+    "timestamp": "2025-03-26T11:12:48.567228",
+    "user_input": "Qual a data da autuação?",
+    "response": "A data da autuação é 07/08/2024."
+  },
+  {
+    "timestamp": "2025-03-26T11:13:09.793283",
+    "user_input": "quantas páginas esse documento consiste?",
+    "response": "Não encontrei essa informação no documento."
+  },
+  {
+    "timestamp": "2025-03-26T11:13:30.214943",
+    "user_input": "qual o nome do perito?",
+    "response": "O nome do perito é Mauro Lopes Garcia Filho."
+  },
+  {
+    "timestamp": "2025-03-26T11:13:46.655367",
+    "user_input": "qual o valor da causa",
+    "response": "O valor da causa é de 70.665,00."
+  },
+  {
+    "timestamp": "2025-03-26T11:14:52.057483",
+    "user_input": "qual a data da assinatura da petição inicial escrita no sumário na última página",
+    "response": "A petição inicial foi assinada em 07/08/2024."
+  },
+  {
+    "timestamp": "2025-03-26T11:15:17.424585",
+    "user_input": "e da habilitação",
+    "response": "A habilitação mencionada no documento pertence a Alessandro da Silva. Foi emitida em 23/01/2023 e tem validade até 20/01/2033. O número de registro da habilitação é W056 45865."
+  },
+  {
+    "timestamp": "2025-03-26T11:15:53.492569",
+    "user_input": "mas e a data da assinatura da habilitação escrita no sumário",
+    "response": "A data da assinatura da habilitação não é mencionada no documento."
+  },
+  {
+    "timestamp": "2025-03-26T11:16:24.596027",
+    "user_input": "dentro do sumário da última página",
+    "response": "Não encontrei essa informação no documento."
+  },
+  {
+    "timestamp": "2025-03-26T11:37:13.555858",
+    "user_input": "data da autuação?",
+    "response": "A data da autuação é 07/08/2024."
+  },
+  {
+    "timestamp": "2025-03-26T11:37:35.066718",
+    "user_input": "quais informações relevantes para a pericia criminal é relevante nesse documento?",
+    "response": "Não encontrei essa informação no documento."
+  },
+  {
+    "timestamp": "2025-03-26T11:38:35.610358",
+    "user_input": "NOME DO(S) RÉU(S)NOME DO(S) RÉU(S)",
+    "response": "O réu no processo é a ABV Comercio de Alimentos Ltda."
+  },
+  {
+    "timestamp": "2025-03-26T11:38:58.576260",
+    "user_input": "NOME DO AUTOR DO PROCESSONOME DO AUTOR DO PROCESSO",
+    "response": "O autor do processo é Alessandro da Silva."
+  },
+  {
+    "timestamp": "2025-03-26T11:39:08.665081",
+    "user_input": "NÚMERO DA AÇÃONÚMERO DA AÇÃO",
+    "response": "O número do processo é 00113469220245150056."
+  },
+  {
+    "timestamp": "2025-03-26T11:39:22.731915",
+    "user_input": "NOME DO MÉDICO PERITONOME DO MÉDICO PERITO",
+    "response": "O nome do médico perito é Mauro Lopes Garcia Filho."
+  },
+  {
+    "timestamp": "2025-03-26T11:40:29.684266",
+    "user_input": "DATA, HORA E LOCAL DA REALIZAÇÃO DA PERÍCIA MÉDICA",
+    "response": "A perícia médica foi realizada no dia 29 de novembro de 2024, às 11h, na sede da Vara do Trabalho localizada na Rua Corumbá, nº 901, bairro Stella Maris."
+  },
+  {
+    "timestamp": "2025-03-26T11:40:58.345178",
+    "user_input": "NOME DA CIDADE DE PROCEDÊNCIA DA VARA, DATA DA REALIZAÇÃO DA PERÍCIA",
+    "response": "Não encontrei essa informação no documento."
+  },
+  {
+    "timestamp": "2025-03-26T11:41:42.627568",
+    "user_input": "IDENTIFICAÇÃO DO RECLAMANTE",
+    "response": "O reclamante é Alessandro da Silva, CPF 44805645865."
+  },
+  {
+    "timestamp": "2025-03-26T11:42:00.206557",
+    "user_input": "ALEGAÇÃO DO/A RECLAMANTE",
+    "response": "O documento não fornece informações específicas sobre a alegação do reclamante."
+  },
+  {
+    "timestamp": "2025-03-26T11:42:12.835717",
+    "user_input": "IDENTIFICAÇÃO DA RECLAMADA",
+    "response": "Não encontrei essa informação no documento."
+  },
+  {
+    "timestamp": "2025-03-26T11:42:29.563890",
+    "user_input": "ALEGAÇÃO DA RECLAMADA",
+    "response": "A reclamada alega que o reclamante está alterando a verdade dos fatos e usando o processo para obter vantagem ilícita. Por isso, ela pede que o reclamante seja penalizado com uma multa e seja responsabilizado pelos prejuízos causados à parte contrária, conforme estabelecido pelo artigo 793c da CLT. Além disso, a reclamada contesta a pretensão do autor de que a empresa seja condenada ao pagamento de honorários de sucumbência de 15%, argumentando que não há fundamento para tal condenação."
+  },
+  {
+    "timestamp": "2025-03-26T12:30:41.583672",
+    "user_input": "nome do autor principal?",
+    "response": "O autor principal é Alessandro da Silva."
+  },
+  {
+    "timestamp": "2025-03-26T12:30:57.413768",
+    "user_input": "data da autuação?",
+    "response": "A data da autuação é 07/08/2024."
+  },
+  {
+    "timestamp": "2025-03-26T12:31:21.111682",
+    "user_input": "DIAS DE TRABALHO NA SEMANA OU TIPO DE ESCALA E HORÁRIO DE TRABALHO",
+    "response": "O documento não fornece informações claras sobre os dias específicos de trabalho na semana ou o tipo de escala. No entanto, ele menciona vários horários de trabalho, que variam bastante. Alguns exemplos incluem 1320-1548-1748-2241, 1320-1739-1939-2240, 1320-1745-1945-2240, entre outros. Esses horários parecem indicar início e término de turnos de trabalho, mas sem informações adicionais, é difícil determinar a escala exata ou os dias específicos de trabalho na semana."
+  },
+  {
+    "timestamp": "2025-03-26T12:34:28.735183",
+    "user_input": "Quais foram os Exames realizados ?",
+    "response": "Os documentos fornecem informações sobre a solicitação de exames de sorologia para dengue e um exame clínico realizado devido a um corte na perna esquerda do paciente após um acidente. No entanto, não há detalhes específicos sobre outros exames realizados."
+  },
+  {
+    "timestamp": "2025-03-26T12:35:05.274283",
+    "user_input": "CURSOS QUE O RECLAMANTE FOI SUBMETIDO\tCURSOS QUE O RECLAMANTE FOI SUBMETIDO\t?",
+    "response": "Não encontrei essa informação no documento."
+  },
+  {
+    "timestamp": "2025-03-26T12:35:25.401793",
+    "user_input": "CURSOS QUE O RECLAMANTE FOI SUBMETIDO ",
+    "response": "O documento não fornece detalhes específicos sobre quais cursos o reclamante foi submetido. Ele apenas menciona que o reclamante foi submetido a um procedimento de integração, além de cursos e orientações sobre medidas de saúde e segurança no trabalho de acordo com os riscos inerentes à função que ocupou."
+  },
+  {
+    "timestamp": "2025-03-26T12:35:42.879097",
+    "user_input": "quais são os nomes dos reus ?",
+    "response": "O réu neste caso é a ABV Comércio de Alimentos Ltda."
+  },
+  {
+    "timestamp": "2025-03-26T12:35:56.249582",
+    "user_input": "nome da cidade ?",
+    "response": "A cidade é Andradina."
+  },
+  {
+    "timestamp": "2025-03-26T12:36:12.071649",
+    "user_input": "identificação do reclamante ?",
+    "response": "O reclamante é Alessandro da Silva, CPF 44805645865."
+  },
+  {
+    "timestamp": "2025-03-26T12:36:39.927014",
+    "user_input": "NOME DA FUNÇÃO QUE O RECLAMANTE DESEMPENHAVA NA RECLAMADA\t",
+    "response": "O reclamante desempenhava a função de açougueiro na reclamada."
+  },
+  {
+    "timestamp": "2025-03-26T12:37:06.778785",
+    "user_input": "qual o nome da vara + autor do processo ?",
+    "response": "O nome da vara é Andradina e o autor do processo é Alessandro da Silva."
+  },
+  {
+    "timestamp": "2025-03-26T12:37:28.464121",
+    "user_input": "DATA EM QUE O/A RECLAMANTE FOI DEMITIDO",
+    "response": "O reclamante encerrou o contrato em 27/04/2024."
+  },
+  {
+    "timestamp": "2025-03-26T12:37:52.607109",
+    "user_input": "ANTECEDENTES PREVIDENCIÁRIOS",
+    "response": "O reclamante não recebe nenhum benefício previdenciário."
+  },
+  {
+    "timestamp": "2025-03-26T12:38:43.487618",
+    "user_input": "QUal o nome do médico perito ?",
+    "response": "O nome do médico perito é Mauro Lopes Garcia Filho."
+  },
+  {
+    "timestamp": "2025-03-26T15:11:31.837150",
+    "user_input": "NOME DA VARA",
+    "response": "A vara é a Vara do Trabalho de Andradina."
+  },
+  {
+    "timestamp": "2025-03-26T15:11:47.085755",
+    "user_input": "data da autuação?",
+    "response": "A data da autuação é 07/08/2024."
+  },
+  {
+    "timestamp": "2025-03-26T15:16:23.339933",
+    "user_input": "NOME DA VARA",
+    "response": "A vara é a Vara do Trabalho de Andradina."
+  },
+  {
+    "timestamp": "2025-03-26T15:17:11.572776",
+    "user_input": "NÚMERO DA AÇÃO",
+    "response": "O número do processo é 00113469220245150056."
+  },
+  {
+    "timestamp": "2025-03-26T15:18:53.214937",
+    "user_input": "data da autuação?\n\n",
+    "response": "A data da autuação é 08/10/2024."
+  },
+  {
+    "timestamp": "2025-03-26T15:19:18.380325",
+    "user_input": "numero da ação",
+    "response": "O número da ação é 00243405020245240106."
+  },
+  {
+    "timestamp": "2025-03-26T15:19:40.185503",
+    "user_input": "qual a tramitação preferencial",
+    "response": "Não encontrei essa informação no documento."
+  },
+  {
+    "timestamp": "2025-03-26T15:19:58.135962",
+    "user_input": "qual o valor da caus",
+    "response": "O valor da causa é de 98.182,88."
+  },
+  {
+    "timestamp": "2025-03-26T15:20:13.881730",
+    "user_input": "réu",
+    "response": "O réu, também referido como Reclamada, não é especificado no documento."
+  },
+  {
+    "timestamp": "2025-03-26T15:20:40.773864",
+    "user_input": "quem é o autor e o advogado",
+    "response": "O autor é Alessandro da Silva e o advogado dele é Diego Demico Maximo, OAB 265580."
+  },
+  {
+    "timestamp": "2025-03-26T17:28:24.312806",
+    "user_input": "autor principal?",
+    "response": "Não encontrei essa informação no documento."
+  },
+  {
+    "timestamp": "2025-03-26T17:29:04.118406",
+    "user_input": "numero do processo",
+    "response": "O número do processo é 00243405020245240106."
+  },
+  {
+    "timestamp": "2025-03-26T17:29:26.088083",
+    "user_input": "qual é o autor principal?",
+    "response": "O documento não fornece informações suficientes para identificar o autor principal."
+  },
+  {
+    "timestamp": "2025-03-26T17:31:10.153200",
+    "user_input": "quem é o autor?",
+    "response": "O autor do documento é Thiago Kusunoki Ferachin."
+  },
+  {
+    "timestamp": "2025-03-27T14:39:58.015020",
+    "user_input": "numero do autor principal",
+    "response": "O número do autor principal, Eliane Rodrigues da Silva, é 11969367223."
+  },
+  {
+    "timestamp": "2025-03-27T14:41:32.504937",
+    "user_input": "qual o cpf dela",
+    "response": "O CPF de Eliane Rodrigues da Silva é 01855912139."
+  },
+  {
+    "timestamp": "2025-03-27T14:43:31.195182",
+    "user_input": "me traz informações importantes para o agente pericial",
+    "response": "As informações importantes para o agente pericial incluem:\n\n1. O perito nomeado é o Dr. Carlos Alberto Macedo de Oliveira, médico do trabalho/ortopedista.\n2. As partes devem indicar assistentes técnicos e apresentar seus quesitos até o dia 29/01/2025.\n3. O perito deve apresentar o laudo pericial no prazo de 15 dias após a realização da perícia, que deve ser feita no prazo máximo de 30 dias a partir da intimação da apresentação dos quesitos pelas partes.\n4. Se necessário, o perito está autorizado a proceder com uma vistoria nos locais/setores de trabalho do reclamante para verificar as atividades desenvolvidas.\n5. O perito deve informar o juízo sobre os locais, datas e horários da realização das perícias com antecedência mínima de 10 dias.\n6. Se houver necessidade de exames complementares, o perito deve informar o juízo e anexar os resultados aos autos.\n7. Em caso de impossibilidade de comparecimento do reclamante na perícia agendada, o motivo deve ser comprovado nos autos até o início da perícia."
+  },
+  {
+    "timestamp": "2025-03-27T14:47:43.738669",
+    "user_input": "quem é o advogado de Eliane",
+    "response": "Não encontrei essa informação no documento."
+  },
+  {
+    "timestamp": "2025-03-28T11:23:18.036214",
+    "user_input": "Nome do autor principal?",
+    "response": "O nome do autor principal (reclamante) não foi fornecido no documento.\n\n📌 Fontes citadas:\nTrecho 'Trecho 6': \"ce com voce todos conseguem menos endereco escritorio rua antonio barbosa 871 frente ao forum de fat...\"\nTrecho 'Trecho 6': \"ce com voce todos conseguem menos endereco escritorio rua antonio barbosa 871 frente ao forum de fat...\"\nTrecho 'Trecho 342': \"no 18401567   pcmg inscrito no cpf sob no 070852806 62 residente e domiciliado na rua felicio abrao ...\""
+  },
+  {
+    "timestamp": "2025-03-28T11:23:18.060777",
+    "user_input": "Nome do autor principal?",
+    "response": "O nome do autor principal (reclamante) não foi fornecido no documento.\n\n📌 Fontes citadas:\nTrecho 'Trecho 6': \"ce com voce todos conseguem menos endereco escritorio rua antonio barbosa 871 frente ao forum de fat...\"\nTrecho 'Trecho 6': \"ce com voce todos conseguem menos endereco escritorio rua antonio barbosa 871 frente ao forum de fat...\"\nTrecho 'Trecho 342': \"no 18401567   pcmg inscrito no cpf sob no 070852806 62 residente e domiciliado na rua felicio abrao ...\""
+  },
+  {
+    "timestamp": "2025-03-28T11:31:23.596140",
+    "user_input": "nome do autor principal?",
+    "response": "Não encontrei essa informação no documento.\n\n📌 Fontes citadas:\nTrecho 'Trecho 342': \"no 18401567   pcmg inscrito no cpf sob no 070852806 62 residente e domiciliado na rua felicio abrao ...\"\nTrecho 'Trecho 342': \"no 18401567   pcmg inscrito no cpf sob no 070852806 62 residente e domiciliado na rua felicio abrao ...\"\nTrecho 'Trecho 342': \"no 18401567   pcmg inscrito no cpf sob no 070852806 62 residente e domiciliado na rua felicio abrao ...\""
+  },
+  {
+    "timestamp": "2025-03-28T11:31:23.633129",
+    "user_input": "nome do autor principal?",
+    "response": "Não encontrei essa informação no documento.\n\n📌 Fontes citadas:\nTrecho 'Trecho 342': \"no 18401567   pcmg inscrito no cpf sob no 070852806 62 residente e domiciliado na rua felicio abrao ...\"\nTrecho 'Trecho 342': \"no 18401567   pcmg inscrito no cpf sob no 070852806 62 residente e domiciliado na rua felicio abrao ...\"\nTrecho 'Trecho 342': \"no 18401567   pcmg inscrito no cpf sob no 070852806 62 residente e domiciliado na rua felicio abrao ...\""
+  },
+  {
+    "timestamp": "2025-03-28T11:44:04.799419",
+    "user_input": "Nome do autor?\n",
+    "response": "Não encontrei essa informação no documento.\n\n📌 Fontes citadas:\nTrecho 'Trecho 6': \"ce com voce todos conseguem menos endereco escritorio rua antonio barbosa 871 frente ao forum de fat...\"\nTrecho 'Trecho 6': \"ce com voce todos conseguem menos endereco escritorio rua antonio barbosa 871 frente ao forum de fat...\"\nTrecho 'Trecho 6': \"ce com voce todos conseguem menos endereco escritorio rua antonio barbosa 871 frente ao forum de fat...\""
+  },
+  {
+    "timestamp": "2025-03-28T11:44:04.842390",
+    "user_input": "Nome do autor?\n",
+    "response": "Não encontrei essa informação no documento.\n\n📌 Fontes citadas:\nTrecho 'Trecho 6': \"ce com voce todos conseguem menos endereco escritorio rua antonio barbosa 871 frente ao forum de fat...\"\nTrecho 'Trecho 6': \"ce com voce todos conseguem menos endereco escritorio rua antonio barbosa 871 frente ao forum de fat...\"\nTrecho 'Trecho 6': \"ce com voce todos conseguem menos endereco escritorio rua antonio barbosa 871 frente ao forum de fat...\""
+  },
+  {
+    "timestamp": "2025-03-28T14:24:52.613809",
+    "user_input": "nome do autor principal?\n",
+    "response": "O autor principal do documento é Eliane Rodrigues da Silva."
+  },
+  {
+    "timestamp": "2025-03-28T14:24:52.640794",
+    "user_input": "nome do autor principal?\n",
+    "response": "O autor principal do documento é Eliane Rodrigues da Silva."
+  },
+  {
+    "timestamp": "2025-03-28T14:30:51.378259",
+    "user_input": "quem é o advogado da Eliane?",
+    "response": "O advogado de Eliane Rodrigues da Silva é Thiago Kusunoki Ferachin, OAB/MS 11645."
+  },
+  {
+    "timestamp": "2025-03-28T14:30:51.414119",
+    "user_input": "quem é o advogado da Eliane?",
+    "response": "O advogado de Eliane Rodrigues da Silva é Thiago Kusunoki Ferachin, OAB/MS 11645."
+  },
+  {
+    "timestamp": "2025-03-28T14:31:26.414004",
+    "user_input": "e o advogado do Réu?",
+    "response": "Informação não encontrada no documento."
+  },
+  {
+    "timestamp": "2025-03-28T14:31:26.457173",
+    "user_input": "e o advogado do Réu?",
+    "response": "Informação não encontrada no documento."
+  },
+  {
+    "timestamp": "2025-03-28T14:31:37.456534",
+    "user_input": "quem é o réu?",
+    "response": "O réu é Tango Sport Ltda-ME."
+  },
+  {
+    "timestamp": "2025-03-28T14:31:37.496213",
+    "user_input": "quem é o réu?",
+    "response": "O réu é Tango Sport Ltda-ME."
+  },
+  {
+    "timestamp": "2025-03-28T14:31:52.749605",
+    "user_input": "e o advogado?\n",
+    "response": "Informação não encontrada no documento."
+  },
+  {
+    "timestamp": "2025-03-28T14:31:52.775943",
+    "user_input": "e o advogado?\n",
+    "response": "Informação não encontrada no documento."
+  },
+  {
+    "timestamp": "2025-03-28T14:32:28.923329",
+    "user_input": "quem é o advogado do réu?",
+    "response": "Informação não encontrada no documento."
+  },
+  {
+    "timestamp": "2025-03-28T14:32:28.962917",
+    "user_input": "quem é o advogado do réu?",
+    "response": "Informação não encontrada no documento."
+  },
+  {
+    "timestamp": "2025-03-28T16:07:44.562209",
+    "user_input": "nome do autor principal?",
+    "response": "Eliane Rodrigues da Silva"
+  },
+  {
+    "timestamp": "2025-03-28T16:07:44.594452",
+    "user_input": "nome do autor principal?",
+    "response": "Eliane Rodrigues da Silva"
+  },
+  {
+    "timestamp": "2025-03-28T16:07:58.781278",
+    "user_input": "quem é o advogado dela?",
+    "response": "O advogado de Eliane Rodrigues da Silva é Thiago Kusunoki Ferachin, inscrito na OAB/MS sob o nº 11.645."
+  },
+  {
+    "timestamp": "2025-03-28T16:07:58.810586",
+    "user_input": "quem é o advogado dela?",
+    "response": "O advogado de Eliane Rodrigues da Silva é Thiago Kusunoki Ferachin, inscrito na OAB/MS sob o nº 11.645."
+  },
+  {
+    "timestamp": "2025-03-28T16:08:16.222603",
+    "user_input": "e quem é o Réu?",
+    "response": "O réu é a Tango Sport Ltda-ME."
+  },
+  {
+    "timestamp": "2025-03-28T16:08:16.251479",
+    "user_input": "e quem é o Réu?",
+    "response": "O réu é a Tango Sport Ltda-ME."
+  },
+  {
+    "timestamp": "2025-03-28T16:08:31.547519",
+    "user_input": "e o advogado do Réu?",
+    "response": "O advogado da Tango Sport Ltda-ME é Nildo Valentin da Costa, OAB 37331/PR."
+  },
+  {
+    "timestamp": "2025-03-28T16:08:31.574214",
+    "user_input": "e o advogado do Réu?",
+    "response": "O advogado da Tango Sport Ltda-ME é Nildo Valentin da Costa, OAB 37331/PR."
+  },
+  {
+    "timestamp": "2025-03-28T16:11:30.972090",
+    "user_input": "Eu falo do advogado do Réu que aparece na primeira folha do documento",
+    "response": "Informação não encontrada no documento."
+  },
+  {
+    "timestamp": "2025-03-28T16:11:31.000486",
+    "user_input": "Eu falo do advogado do Réu que aparece na primeira folha do documento",
+    "response": "Informação não encontrada no documento."
+  },
+  {
+    "timestamp": "2025-03-28T16:11:55.207688",
+    "user_input": "Qual é a tramitação preferencial do documento",
+    "response": "Informação não encontrada no documento."
+  },
+  {
+    "timestamp": "2025-03-28T16:11:55.233468",
+    "user_input": "Qual é a tramitação preferencial do documento",
+    "response": "Informação não encontrada no documento."
+  },
+  {
+    "timestamp": "2025-03-28T16:12:20.032231",
+    "user_input": "Qual o valor da causa?\n",
+    "response": "98.182,88"
+  },
+  {
+    "timestamp": "2025-03-28T16:12:20.071622",
+    "user_input": "Qual o valor da causa?\n",
+    "response": "98.182,88"
+  },
+  {
+    "timestamp": "2025-03-28T16:55:53.045446",
+    "user_input": "qual o nome do autor principal?",
+    "response": "Eliane Rodrigues da Silva"
+  },
+  {
+    "timestamp": "2025-03-28T16:55:53.087794",
+    "user_input": "qual o nome do autor principal?",
+    "response": "Eliane Rodrigues da Silva"
+  },
+  {
+    "timestamp": "2025-03-28T16:56:08.101020",
+    "user_input": "e do advogado dela?",
+    "response": "O advogado de Eliane Rodrigues da Silva é Thiago Kusunoki Ferachin."
+  },
+  {
+    "timestamp": "2025-03-28T16:56:08.124046",
+    "user_input": "e do advogado dela?",
+    "response": "O advogado de Eliane Rodrigues da Silva é Thiago Kusunoki Ferachin."
+  },
+  {
+    "timestamp": "2025-03-28T16:56:28.415454",
+    "user_input": "e o nome do Réu?",
+    "response": "O réu é Tango Sport LTDA - ME."
+  },
+  {
+    "timestamp": "2025-03-28T16:56:28.451410",
+    "user_input": "e o nome do Réu?",
+    "response": "O réu é Tango Sport LTDA - ME."
+  },
+  {
+    "timestamp": "2025-03-28T16:56:42.608720",
+    "user_input": "e o do advogado?",
+    "response": "O advogado do réu é Alciana Reolon Sanches."
+  },
+  {
+    "timestamp": "2025-03-28T16:56:42.632967",
+    "user_input": "e o do advogado?",
+    "response": "O advogado do réu é Alciana Reolon Sanches."
+  },
+  {
+    "timestamp": "2025-03-28T16:57:04.996963",
+    "user_input": "numero da OAB dela?",
+    "response": "A advogada Alciana Reolon Sanches tem o número de inscrição na OAB MS 11645."
+  },
+  {
+    "timestamp": "2025-03-28T16:57:05.019299",
+    "user_input": "numero da OAB dela?",
+    "response": "A advogada Alciana Reolon Sanches tem o número de inscrição na OAB MS 11645."
+  },
+  {
+    "timestamp": "2025-03-29T18:32:53.278186",
+    "user_input": "nome do autor principal?",
+    "response": "Eliane Rodrigues da Silva"
+  },
+  {
+    "timestamp": "2025-03-29T18:32:53.291675",
+    "user_input": "nome do autor principal?",
+    "response": "Eliane Rodrigues da Silva"
+  },
+  {
+    "timestamp": "2025-03-29T18:37:16.144477",
+    "user_input": "nome do autor principal?",
+    "response": "Eliane Rodrigues da Silva"
+  },
+  {
+    "timestamp": "2025-03-29T18:37:16.160209",
+    "user_input": "nome do autor principal?",
+    "response": "Eliane Rodrigues da Silva"
+  },
+  {
+    "timestamp": "2025-03-29T18:37:25.322550",
+    "user_input": "quem é o advogado dela?",
+    "response": "O advogado de Eliane Rodrigues da Silva é Thiago Kusunoki Ferachin, inscrito na OAB/MS sob o nº 11.645."
+  },
+  {
+    "timestamp": "2025-03-29T18:37:25.341108",
+    "user_input": "quem é o advogado dela?",
+    "response": "O advogado de Eliane Rodrigues da Silva é Thiago Kusunoki Ferachin, inscrito na OAB/MS sob o nº 11.645."
+  },
+  {
+    "timestamp": "2025-03-29T18:37:58.232610",
+    "user_input": "e quem é o réu?",
+    "response": "O réu no caso envolvendo Eliane Rodrigues da Silva é a Tango Sport LTDA - ME."
+  },
+  {
+    "timestamp": "2025-03-29T18:37:58.247374",
+    "user_input": "e quem é o réu?",
+    "response": "O réu no caso envolvendo Eliane Rodrigues da Silva é a Tango Sport LTDA - ME."
+  },
+  {
+    "timestamp": "2025-03-29T18:38:11.652427",
+    "user_input": "e o advogado do réu?",
+    "response": "O advogado da Tango Sport LTDA - ME é Nildo Valentin da Costa, inscrito na OAB sob o número 37331/PR."
+  },
+  {
+    "timestamp": "2025-03-29T18:38:11.667362",
+    "user_input": "e o advogado do réu?",
+    "response": "O advogado da Tango Sport LTDA - ME é Nildo Valentin da Costa, inscrito na OAB sob o número 37331/PR."
+  },
+  {
+    "timestamp": "2025-03-29T18:38:38.773141",
+    "user_input": "você errou, não é esse o advogado",
+    "response": "Não posso confirmar se cometi um erro sem uma pergunta específica. Por favor, forneça mais detalhes ou faça uma pergunta específica."
+  },
+  {
+    "timestamp": "2025-03-29T18:38:38.786228",
+    "user_input": "você errou, não é esse o advogado",
+    "response": "Não posso confirmar se cometi um erro sem uma pergunta específica. Por favor, forneça mais detalhes ou faça uma pergunta específica."
+  },
+  {
+    "timestamp": "2025-03-29T18:39:04.762652",
+    "user_input": "o advogado do réu que é apresentado na primeira folha do documento",
+    "response": "O advogado do réu, Tango Sport LTDA - ME, é Alciana Reolon Sanches, inscrita na OAB sob o número MS 11645."
+  },
+  {
+    "timestamp": "2025-03-29T18:39:04.778206",
+    "user_input": "o advogado do réu que é apresentado na primeira folha do documento",
+    "response": "O advogado do réu, Tango Sport LTDA - ME, é Alciana Reolon Sanches, inscrita na OAB sob o número MS 11645."
+  },
+  {
+    "timestamp": "2025-03-29T18:40:09.532437",
+    "user_input": "o numero da OAB da Alciana Reolon Sanches não é esse",
+    "response": "Sim, está correto. A advogada Alciana Reolon Sanches não possui o número de OAB MS 11645. A informação sobre o número de OAB dela não foi fornecida no documento."
+  },
+  {
+    "timestamp": "2025-03-29T18:40:09.553014",
+    "user_input": "o numero da OAB da Alciana Reolon Sanches não é esse",
+    "response": "Sim, está correto. A advogada Alciana Reolon Sanches não possui o número de OAB MS 11645. A informação sobre o número de OAB dela não foi fornecida no documento."
+  },
+  {
+    "timestamp": "2025-03-29T18:40:43.691503",
+    "user_input": "acredito que esteja na folha 98 do documento no trecho \"Requer finalmente, que todas as intimações sejam\n\nrealizadas em nome da advogada ALCIANA REOLON SANCHES BUENO...\"",
+    "response": "Não, o número da OAB da advogada Alciana Reolon Sanches Bueno não está na folha 98 do documento."
+  },
+  {
+    "timestamp": "2025-03-29T18:40:43.703397",
+    "user_input": "acredito que esteja na folha 98 do documento no trecho \"Requer finalmente, que todas as intimações sejam\n\nrealizadas em nome da advogada ALCIANA REOLON SANCHES BUENO...\"",
+    "response": "Não, o número da OAB da advogada Alciana Reolon Sanches Bueno não está na folha 98 do documento."
+  },
+  {
+    "timestamp": "2025-03-29T18:41:07.042589",
+    "user_input": "Requer finalmente, que todas as intimações sejam\n\nrealizadas em nome da advogada ALCIANA REOLON SANCHES BUENO, OAB/PR\n\n47.785, sob pena de nulidade.",
+    "response": "Sim, a advogada Alciana Reolon Sanches Bueno, que representa a Tango Sport LTDA - ME, possui o número de inscrição OAB/PR 47.785."
+  },
+  {
+    "timestamp": "2025-03-29T18:41:07.057282",
+    "user_input": "Requer finalmente, que todas as intimações sejam\n\nrealizadas em nome da advogada ALCIANA REOLON SANCHES BUENO, OAB/PR\n\n47.785, sob pena de nulidade.",
+    "response": "Sim, a advogada Alciana Reolon Sanches Bueno, que representa a Tango Sport LTDA - ME, possui o número de inscrição OAB/PR 47.785."
+  },
+  {
+    "timestamp": "2025-03-29T18:43:45.873820",
+    "user_input": "NOME DA VARA",
+    "response": "Fátima do Sul"
+  },
+  {
+    "timestamp": "2025-03-29T18:43:45.890352",
+    "user_input": "NOME DA VARA",
+    "response": "Fátima do Sul"
+  },
+  {
+    "timestamp": "2025-03-29T18:44:18.522459",
+    "user_input": "NÚMERO DA AÇÃO",
+    "response": "O número da ação é 00243405020245240106."
+  },
+  {
+    "timestamp": "2025-03-29T18:44:18.533565",
+    "user_input": "NÚMERO DA AÇÃO",
+    "response": "O número da ação é 00243405020245240106."
+  },
+  {
+    "timestamp": "2025-03-29T18:44:33.942138",
+    "user_input": "NOME DO AUTOR DO PROCESSO",
+    "response": "Eliane Rodrigues da Silva"
+  },
+  {
+    "timestamp": "2025-03-29T18:44:33.955591",
+    "user_input": "NOME DO AUTOR DO PROCESSO",
+    "response": "Eliane Rodrigues da Silva"
+  },
+  {
+    "timestamp": "2025-03-29T18:44:44.632457",
+    "user_input": "NOME DO(S) RÉU(S)",
+    "response": "O réu é Tango Sport LTDA - ME."
+  },
+  {
+    "timestamp": "2025-03-29T18:44:44.643847",
+    "user_input": "NOME DO(S) RÉU(S)",
+    "response": "O réu é Tango Sport LTDA - ME."
+  },
+  {
+    "timestamp": "2025-03-29T18:44:53.337304",
+    "user_input": "NOME DO MÉDICO PERITO",
+    "response": "O nome do médico perito é Dr. Carlos Alberto Macedo de Oliveira."
+  },
+  {
+    "timestamp": "2025-03-29T18:44:53.352411",
+    "user_input": "NOME DO MÉDICO PERITO",
+    "response": "O nome do médico perito é Dr. Carlos Alberto Macedo de Oliveira."
+  },
+  {
+    "timestamp": "2025-03-29T18:45:43.622427",
+    "user_input": "DATA, HORA E LOCAL DA REALIZAÇÃO DA PERÍCIA MÉDICA",
+    "response": "Informação não encontrada no documento."
+  },
+  {
+    "timestamp": "2025-03-29T18:45:43.644821",
+    "user_input": "DATA, HORA E LOCAL DA REALIZAÇÃO DA PERÍCIA MÉDICA",
+    "response": "Informação não encontrada no documento."
+  },
+  {
+    "timestamp": "2025-03-29T18:46:08.462402",
+    "user_input": "tem certeza? Não quer verificar novamente?",
+    "response": "Desculpe, mas não posso responder a essa pergunta sem um contexto específico. Por favor, forneça mais detalhes ou faça uma pergunta específica."
+  },
+  {
+    "timestamp": "2025-03-29T18:46:08.473170",
+    "user_input": "tem certeza? Não quer verificar novamente?",
+    "response": "Desculpe, mas não posso responder a essa pergunta sem um contexto específico. Por favor, forneça mais detalhes ou faça uma pergunta específica."
+  },
+  {
+    "timestamp": "2025-03-29T18:53:57.232297",
+    "user_input": "DATA, HORA E LOCAL DA REALIZAÇÃO DA PERÍCIA MÉDICA",
+    "response": "O documento não fornece uma data, hora e local específicos para a realização da perícia médica. No entanto, estabelece que o perito nomeado, Dr. Carlos Alberto Macedo de Oliveira, deve informar ao Juízo sobre o local, data e horário com antecedência mínima de 10 dias, para que as partes possam ser intimadas e acompanhar os trabalhos periciais. Além disso, o perito tem a autorização para realizar vistorias nos locais/setores de trabalho do reclamante, se necessário para a conclusão pericial."
+  },
+  {
+    "timestamp": "2025-03-29T18:53:57.251246",
+    "user_input": "DATA, HORA E LOCAL DA REALIZAÇÃO DA PERÍCIA MÉDICA",
+    "response": "O documento não fornece uma data, hora e local específicos para a realização da perícia médica. No entanto, estabelece que o perito nomeado, Dr. Carlos Alberto Macedo de Oliveira, deve informar ao Juízo sobre o local, data e horário com antecedência mínima de 10 dias, para que as partes possam ser intimadas e acompanhar os trabalhos periciais. Além disso, o perito tem a autorização para realizar vistorias nos locais/setores de trabalho do reclamante, se necessário para a conclusão pericial."
+  },
+  {
+    "timestamp": "2025-03-29T18:59:19.062391",
+    "user_input": "DATA, HORA E LOCAL DA REALIZAÇÃO DA PERÍCIA MÉDICA",
+    "response": "A perícia médica foi realizada no dia 29 de novembro de 2024, às 11h, na Vara do Trabalho de Andradina, situada na Rua Corumbá, nº 901, Bairro Stella Maris."
+  },
+  {
+    "timestamp": "2025-03-29T18:59:19.082566",
+    "user_input": "DATA, HORA E LOCAL DA REALIZAÇÃO DA PERÍCIA MÉDICA",
+    "response": "A perícia médica foi realizada no dia 29 de novembro de 2024, às 11h, na Vara do Trabalho de Andradina, situada na Rua Corumbá, nº 901, Bairro Stella Maris."
+  },
+  {
+    "timestamp": "2025-03-29T19:00:02.493417",
+    "user_input": "NOME DA CIDADE DE PROCEDÊNCIA DA VARA, DATA DA REALIZAÇÃO DA PERÍCIA",
+    "response": "A Vara do Trabalho é originária da cidade de Andradina. A perícia médica foi realizada no dia 29 de novembro de 2024."
+  },
+  {
+    "timestamp": "2025-03-29T19:00:02.511405",
+    "user_input": "NOME DA CIDADE DE PROCEDÊNCIA DA VARA, DATA DA REALIZAÇÃO DA PERÍCIA",
+    "response": "A Vara do Trabalho é originária da cidade de Andradina. A perícia médica foi realizada no dia 29 de novembro de 2024."
+  },
+  {
+    "timestamp": "2025-03-29T19:00:56.252274",
+    "user_input": "IDENTIFICAÇÃO DO RECLAMANTE",
+    "response": "O reclamante é Alessandro da Silva, com CPF 448.056.458-65."
+  },
+  {
+    "timestamp": "2025-03-29T19:00:56.265697",
+    "user_input": "IDENTIFICAÇÃO DO RECLAMANTE",
+    "response": "O reclamante é Alessandro da Silva, com CPF 448.056.458-65."
+  },
+  {
+    "timestamp": "2025-03-29T19:01:20.242442",
+    "user_input": "ALEGAÇÃO DO/A RECLAMANTE",
+    "response": "O reclamante, Alessandro da Silva, alega que sofreu um grave acidente de trabalho e, desde o ocorrido, a reclamada, ABV Comércio de Alimentos LTDA, passou a persegui-lo de várias formas, incluindo tratamento de silêncio por parte de seu encarregado, humilhações e ameaças veladas. Após o período de recuperação das lesões causadas pelo acidente, a empresa teria alterado seus horários de trabalho sem seu consentimento, com o objetivo de desajustar sua rotina. Além disso, o reclamante alega que a empresa o constrangeu a assinar um documento de rescisão do contrato de trabalho, informando que estava se desligando voluntariamente, quando na verdade a rescisão era indireta devido ao descumprimento das obrigações trabalhistas por parte da empresa. O reclamante busca a rescisão indireta do contrato de trabalho e o pagamento de todas as verbas rescisórias correspondentes."
+  },
+  {
+    "timestamp": "2025-03-29T19:01:20.260065",
+    "user_input": "ALEGAÇÃO DO/A RECLAMANTE",
+    "response": "O reclamante, Alessandro da Silva, alega que sofreu um grave acidente de trabalho e, desde o ocorrido, a reclamada, ABV Comércio de Alimentos LTDA, passou a persegui-lo de várias formas, incluindo tratamento de silêncio por parte de seu encarregado, humilhações e ameaças veladas. Após o período de recuperação das lesões causadas pelo acidente, a empresa teria alterado seus horários de trabalho sem seu consentimento, com o objetivo de desajustar sua rotina. Além disso, o reclamante alega que a empresa o constrangeu a assinar um documento de rescisão do contrato de trabalho, informando que estava se desligando voluntariamente, quando na verdade a rescisão era indireta devido ao descumprimento das obrigações trabalhistas por parte da empresa. O reclamante busca a rescisão indireta do contrato de trabalho e o pagamento de todas as verbas rescisórias correspondentes."
+  },
+  {
+    "timestamp": "2025-03-29T19:01:43.612337",
+    "user_input": "IDENTIFICAÇÃO DA RECLAMADA",
+    "response": "A reclamada é identificada como ABV Comercio de Alimentos LTDA, com o nome fantasia Levemax Superatacado Andradina. Ela está devidamente inscrita no CNPJ no 04.757.459/0022-10 e está situada na Av. Guanabara, 2758, Centro, na cidade de Andradina, SP, CEP 16901-000. Os contatos fornecidos são os emails contabil@grupoabv.com.br e os telefones 67 3410 7200 / 67 3410 7223."
+  },
+  {
+    "timestamp": "2025-03-29T19:01:43.632270",
+    "user_input": "IDENTIFICAÇÃO DA RECLAMADA",
+    "response": "A reclamada é identificada como ABV Comercio de Alimentos LTDA, com o nome fantasia Levemax Superatacado Andradina. Ela está devidamente inscrita no CNPJ no 04.757.459/0022-10 e está situada na Av. Guanabara, 2758, Centro, na cidade de Andradina, SP, CEP 16901-000. Os contatos fornecidos são os emails contabil@grupoabv.com.br e os telefones 67 3410 7200 / 67 3410 7223."
+  },
+  {
+    "timestamp": "2025-03-29T19:16:42.093379",
+    "user_input": "NOME DA VARA",
+    "response": "A vara mencionada no documento é a Vara do Trabalho de Ponta Porã."
+  },
+  {
+    "timestamp": "2025-03-29T19:16:42.110703",
+    "user_input": "NOME DA VARA",
+    "response": "A vara mencionada no documento é a Vara do Trabalho de Ponta Porã."
+  },
+  {
+    "timestamp": "2025-03-29T19:16:49.942206",
+    "user_input": "NÚMERO DA AÇÃO",
+    "response": "O número da ação é 00243891720245240066."
+  },
+  {
+    "timestamp": "2025-03-29T19:16:49.953330",
+    "user_input": "NÚMERO DA AÇÃO",
+    "response": "O número da ação é 00243891720245240066."
+  },
+  {
+    "timestamp": "2025-03-29T19:17:03.346433",
+    "user_input": "NOME DO AUTOR DO PROCESSO",
+    "response": "O autor do processo é Cleuza Vilhalba."
+  },
+  {
+    "timestamp": "2025-03-29T19:17:03.358407",
+    "user_input": "NOME DO AUTOR DO PROCESSO",
+    "response": "O autor do processo é Cleuza Vilhalba."
+  },
+  {
+    "timestamp": "2025-03-29T19:17:23.608831",
+    "user_input": "e o advogado?",
+    "response": "O advogado do autor, Cleuza Vilhalba, é Igor Vinicius Neves Preigschadt. O advogado do réu, ABV Comercio de Alimentos LTDA, é Ana Claudia Araujo Santos Sena."
+  },
+  {
+    "timestamp": "2025-03-29T19:17:23.623751",
+    "user_input": "e o advogado?",
+    "response": "O advogado do autor, Cleuza Vilhalba, é Igor Vinicius Neves Preigschadt. O advogado do réu, ABV Comercio de Alimentos LTDA, é Ana Claudia Araujo Santos Sena."
+  },
+  {
+    "timestamp": "2025-03-29T19:17:56.316541",
+    "user_input": "quem é o perito?",
+    "response": "O perito nomeado para o processo é o Dr. Sergio Luis Boretti dos Santos."
+  },
+  {
+    "timestamp": "2025-03-29T19:17:56.335331",
+    "user_input": "quem é o perito?",
+    "response": "O perito nomeado para o processo é o Dr. Sergio Luis Boretti dos Santos."
+  },
+  {
+    "timestamp": "2025-03-29T19:18:18.581659",
+    "user_input": "me informe todos os advogados do autor",
+    "response": "Os advogados do autor, Cleuza Vilhalba, são:\n\n1. Igor Vinicius Neves Preigschadt, inscrito na OAB/RS sob o nº 91466.\n2. Tarcisio Bordin de Medeiros, inscrito na OAB/RS sob o nº 89294.\n3. João Victor Ciancio, inscrito na OAB/MS sob o nº 23631."
+  },
+  {
+    "timestamp": "2025-03-29T19:18:18.604025",
+    "user_input": "me informe todos os advogados do autor",
+    "response": "Os advogados do autor, Cleuza Vilhalba, são:\n\n1. Igor Vinicius Neves Preigschadt, inscrito na OAB/RS sob o nº 91466.\n2. Tarcisio Bordin de Medeiros, inscrito na OAB/RS sob o nº 89294.\n3. João Victor Ciancio, inscrito na OAB/MS sob o nº 23631."
+  },
+  {
+    "timestamp": "2025-03-29T19:18:45.607595",
+    "user_input": "falta o Elisson?",
+    "response": "Sim, Elisson Rosa de Quadros, inscrito na OAB/RS sob o número 99309, é um dos advogados representando o autor, Cleuza Vilhalba. Ele foi substabelecido com reserva de poderes por João Victor Ciancio, inscrito na OAB/MS sob o número 23631, conforme mencionado no documento. Portanto, ele deveria estar na lista de advogados do autor."
+  },
+  {
+    "timestamp": "2025-03-29T19:18:45.625374",
+    "user_input": "falta o Elisson?",
+    "response": "Sim, Elisson Rosa de Quadros, inscrito na OAB/RS sob o número 99309, é um dos advogados representando o autor, Cleuza Vilhalba. Ele foi substabelecido com reserva de poderes por João Victor Ciancio, inscrito na OAB/MS sob o número 23631, conforme mencionado no documento. Portanto, ele deveria estar na lista de advogados do autor."
+  },
+  {
+    "timestamp": "2025-03-29T19:20:05.742593",
+    "user_input": "o correto do tarcisio é:  Tarcísio Bordin\n\nde Medeiros - OAB/MS n.º 18.677",
+    "response": "Sim, o número da OAB de Tarcísio Bordin de Medeiros é 18.677."
+  },
+  {
+    "timestamp": "2025-03-29T19:20:05.767203",
+    "user_input": "o correto do tarcisio é:  Tarcísio Bordin\n\nde Medeiros - OAB/MS n.º 18.677",
+    "response": "Sim, o número da OAB de Tarcísio Bordin de Medeiros é 18.677."
+  },
+  {
+    "timestamp": "2025-03-29T19:20:20.570942",
+    "user_input": "NOME DO MÉDICO PERITO",
+    "response": "O médico perito nomeado pelo juízo é o Dr. Sergio Luis Boretti dos Santos."
+  },
+  {
+    "timestamp": "2025-03-29T19:20:20.580949",
+    "user_input": "NOME DO MÉDICO PERITO",
+    "response": "O médico perito nomeado pelo juízo é o Dr. Sergio Luis Boretti dos Santos."
+  },
+  {
+    "timestamp": "2025-03-29T19:20:57.830608",
+    "user_input": "ANTECEDENTES PREVIDENCIÁRIOS",
+    "response": "Os antecedentes previdenciários da parte autora, Cleuza Vilhalba, são detalhados ao longo do documento. Ela teve vários períodos de auxílio-doença previdenciário, conforme listado abaixo:\n\n1. Benefício com início em 07/04/2021 e término em 11/11/2021.\n2. Benefício com início em 06/12/2021 e término em 05/12/2024.\n3. Benefício com início em 21/11/2020 e término em 30/12/2020.\n\nAlém disso, o documento menciona vários períodos de contribuição e remuneração, bem como a existência de vínculos trabalhistas em diferentes períodos. No entanto, sem uma pergunta mais específica, é difícil detalhar todos os antecedentes previdenciários mencionados no documento."
+  },
+  {
+    "timestamp": "2025-03-29T19:20:57.849718",
+    "user_input": "ANTECEDENTES PREVIDENCIÁRIOS",
+    "response": "Os antecedentes previdenciários da parte autora, Cleuza Vilhalba, são detalhados ao longo do documento. Ela teve vários períodos de auxílio-doença previdenciário, conforme listado abaixo:\n\n1. Benefício com início em 07/04/2021 e término em 11/11/2021.\n2. Benefício com início em 06/12/2021 e término em 05/12/2024.\n3. Benefício com início em 21/11/2020 e término em 30/12/2020.\n\nAlém disso, o documento menciona vários períodos de contribuição e remuneração, bem como a existência de vínculos trabalhistas em diferentes períodos. No entanto, sem uma pergunta mais específica, é difícil detalhar todos os antecedentes previdenciários mencionados no documento."
+  },
+  {
+    "timestamp": "2025-04-03T10:12:19.399289",
+    "user_input": "Nome do autor principal?",
+    "response": "O autor principal do documento é Cleuza Vilhalba."
+  },
+  {
+    "timestamp": "2025-04-03T10:12:19.414971",
+    "user_input": "Nome do autor principal?",
+    "response": "O autor principal do documento é Cleuza Vilhalba."
+  },
+  {
+    "timestamp": "2025-04-03T10:13:06.791524",
+    "user_input": "me informe todos os advogados listados da Cleuza Vilhalba",
+    "response": "Os advogados listados para Cleuza Vilhalba são:\n\n1. Igor Vinicius Neves Preigschadt\n2. Elisson Rosa de Quadros\n3. Tarcisio Bordin de Medeiros\n4. João Victor Ciancio (OAB/MS sob o nº 23631)"
+  },
+  {
+    "timestamp": "2025-04-03T10:13:06.808684",
+    "user_input": "me informe todos os advogados listados da Cleuza Vilhalba",
+    "response": "Os advogados listados para Cleuza Vilhalba são:\n\n1. Igor Vinicius Neves Preigschadt\n2. Elisson Rosa de Quadros\n3. Tarcisio Bordin de Medeiros\n4. João Victor Ciancio (OAB/MS sob o nº 23631)"
+  },
+  {
+    "timestamp": "2025-04-03T10:13:53.038899",
+    "user_input": "me informe agora o nome do réu, advogado e o perito",
+    "response": "Réu: ABV Comercio de Alimentos LTDA\nAdvogado do réu: Ana Claudia Araujo Santos Sena, inscrita na OAB/MS sob o nº 18\nPerito: Dr. Sergio Luis Boretti dos Santos, inscrito no CRM/MS sob o nº 7496."
+  },
+  {
+    "timestamp": "2025-04-03T10:13:53.066261",
+    "user_input": "me informe agora o nome do réu, advogado e o perito",
+    "response": "Réu: ABV Comercio de Alimentos LTDA\nAdvogado do réu: Ana Claudia Araujo Santos Sena, inscrita na OAB/MS sob o nº 18\nPerito: Dr. Sergio Luis Boretti dos Santos, inscrito no CRM/MS sob o nº 7496."
+  },
+  {
+    "timestamp": "2025-04-03T10:15:56.149220",
+    "user_input": "O perito tem CRM?",
+    "response": "Sim, o perito Dr. Sergio Luis Boretti dos Santos possui CRM, conforme indicado nos metadados do documento. No entanto, o documento não fornece o número específico do CRM."
+  },
+  {
+    "timestamp": "2025-04-03T10:15:56.163876",
+    "user_input": "O perito tem CRM?",
+    "response": "Sim, o perito Dr. Sergio Luis Boretti dos Santos possui CRM, conforme indicado nos metadados do documento. No entanto, o documento não fornece o número específico do CRM."
+  },
+  {
+    "timestamp": "2025-04-03T10:43:44.800545",
+    "user_input": "TRAZER TODAS AS INFORMAÇÕES RELEVANTES PARA UM AGENTE PERICÍAL NESSE DOCUMENTO",
+    "response": "Com base no documento, as informações relevantes para um agente pericial são:\n\n1. A perícia será realizada no dia 14 de fevereiro de 2025, sexta-feira, às 15h30min nas instalações da Vara do Trabalho.\n\n2. A reclamante (CLEUZA VILHALBA) deve comparecer à perícia, sob pena de se presumir a desistência da prova.\n\n3. O perito deve responder a uma série de quesitos apresentados, que incluem questões sobre a natureza e o percentual de incapacidade da reclamante, o histórico clínico, a existência de problemas congênitos que possam afetar a capacidade laborativa, a estimativa da data de início da lesão/doença, a progressão ou agravamento da lesão/doença, a possibilidade de eliminação ou minimização das sequelas, a natureza da incapacidade (temporária ou permanente, total ou parcial), a possibilidade de recuperação e reabilitação profissional, a necessidade de tratamentos ou cirurgias, entre outros.\n\n4. O perito também deve avaliar a capacidade residual de trabalho do reclamante e a viabilid..."
+  },
+  {
+    "timestamp": "2025-04-03T10:43:44.813252",
+    "user_input": "TRAZER TODAS AS INFORMAÇÕES RELEVANTES PARA UM AGENTE PERICÍAL NESSE DOCUMENTO",
+    "response": "Com base no documento, as informações relevantes para um agente pericial são:\n\n1. A perícia será realizada no dia 14 de fevereiro de 2025, sexta-feira, às 15h30min nas instalações da Vara do Trabalho.\n\n2. A reclamante (CLEUZA VILHALBA) deve comparecer à perícia, sob pena de se presumir a desistência da prova.\n\n3. O perito deve responder a uma série de quesitos apresentados, que incluem questões sobre a natureza e o percentual de incapacidade da reclamante, o histórico clínico, a existência de problemas congênitos que possam afetar a capacidade laborativa, a estimativa da data de início da lesão/doença, a progressão ou agravamento da lesão/doença, a possibilidade de eliminação ou minimização das sequelas, a natureza da incapacidade (temporária ou permanente, total ou parcial), a possibilidade de recuperação e reabilitação profissional, a necessidade de tratamentos ou cirurgias, entre outros.\n\n4. O perito também deve avaliar a capacidade residual de trabalho do reclamante e a viabilid..."
+  },
+  {
+    "timestamp": "2025-04-03T13:38:04.702195",
+    "user_input": "TRAZER TODAS AS INFORMAÇÕES RELEVANTES PARA UM AGENTE PERICÍAL NESSE DOCUMENTO",
+    "response": "O documento contém várias informações relevantes para um agente pericial:\n\n1. Autor e Réu: O autor é Eliane Rodrigues da Silva e o réu é Tango Sport LTDA - ME.\n\n2. Advogados: O advogado do autor é Thiago Kusunoki Ferachin, inscrito na OAB/MS sob o nº 11.645. O advogado do réu é Alciana Reolon Sanches.\n\n3. Valor da causa: R$ 98.182,88.\n\n4. Perícia: O perito deverá informar ao Juízo sobre o local, data e horário da realização da perícia com antecedência mínima de 10 dias. Caso o perito entenda necessário, está autorizado a proceder vistoria nos locais/setores de trabalho do reclamante para verificação das atividades desenvolvidas pelo mesmo.\n\n5. Documentos e exames: As partes deverão juntar aos autos, se desejarem, os demais documentos, exames clínicos, laudos, ultrassonografias, ressonâncias, atestados, ASOS, PPP, LTCAT, etc., que possam interferir no resultado da perícia, em até 05 dias corridos antes da data designada para a realização da perícia.\n\n6. Laudo pericial: O laudo perici..."
+  },
+  {
+    "timestamp": "2025-04-03T13:38:04.730305",
+    "user_input": "TRAZER TODAS AS INFORMAÇÕES RELEVANTES PARA UM AGENTE PERICÍAL NESSE DOCUMENTO",
+    "response": "O documento contém várias informações relevantes para um agente pericial:\n\n1. Autor e Réu: O autor é Eliane Rodrigues da Silva e o réu é Tango Sport LTDA - ME.\n\n2. Advogados: O advogado do autor é Thiago Kusunoki Ferachin, inscrito na OAB/MS sob o nº 11.645. O advogado do réu é Alciana Reolon Sanches.\n\n3. Valor da causa: R$ 98.182,88.\n\n4. Perícia: O perito deverá informar ao Juízo sobre o local, data e horário da realização da perícia com antecedência mínima de 10 dias. Caso o perito entenda necessário, está autorizado a proceder vistoria nos locais/setores de trabalho do reclamante para verificação das atividades desenvolvidas pelo mesmo.\n\n5. Documentos e exames: As partes deverão juntar aos autos, se desejarem, os demais documentos, exames clínicos, laudos, ultrassonografias, ressonâncias, atestados, ASOS, PPP, LTCAT, etc., que possam interferir no resultado da perícia, em até 05 dias corridos antes da data designada para a realização da perícia.\n\n6. Laudo pericial: O laudo perici..."
+  },
+  {
+    "timestamp": "2025-04-03T13:43:49.660524",
+    "user_input": "TRAZER TODAS AS INFORMAÇÕES RELEVANTES PARA UM AGENTE PERICÍAL NESSE DOCUMENTO",
+    "response": "O documento apresenta as seguintes informações relevantes para um agente pericial:\n\n1. Autora do processo: Eliane Rodrigues da Silva, representada pelo advogado Thiago Kusunoki Ferachin (OAB/MS 11.645).\n2. Réu: Tango Sport LTDA - ME, representada pela advogada Alciana Reolon Sanches.\n3. Valor da causa: R$ 98.182,88.\n4. Juiz responsável: Eliane Rodrigues da.\n5. A perícia será realizada no local de trabalho do reclamante para verificar as atividades desenvolvidas. O perito deverá informar ao Juízo sobre o local, data e horário com antecedência mínima de 10 dias.\n6. Em caso de impossibilidade de comparecimento do reclamante na perícia agendada, o motivo deve ser comprovado nos autos até o início da perícia.\n7. As partes devem juntar aos autos, se desejarem, documentos, exames clínicos, laudos, ultrassonografias, ressonâncias, atestados, ASOS, PPP, LTCAT, etc., que possam interferir no resultado da perícia, em até 05 dias corridos antes da data designada para a realização da perícia.\n8. Após a apresentação do laudo pericial, as partes serão intimadas para se manifestarem no prazo comum de 5 dias úteis.\n9. A apresentação do laudo pericial deve ocorrer no prazo de 15 dias após a realização da perícia, que deve ser feita no prazo máximo de 30 dias a partir da intimação da apresentação dos quesitos pelas partes.\n10. O documento também menciona a possibilidade de vistoria nos locais/setores de trabalho do reclamante para verificação das atividades desenvolvidas pelo mesmo.\n11. O documento menciona a necessidade de apresentação de exames complementares, se for o caso.\n12. O documento menciona a possibilidade de preclusão da realização da prova em caso de impossibilidade de comparecimento do reclamante na perícia agendada, salvo se comprovada a impossibilidade de fazê-lo.\n13. O documento menciona a possibilidade de preclusão da realização da prova em caso de não juntada de documentos, exames clínicos, laudos, ultrassonografias, ressonâncias, atestados, ASOS, PPP, LTCAT, etc..."
+  },
+  {
+    "timestamp": "2025-04-03T13:43:49.668904",
+    "user_input": "TRAZER TODAS AS INFORMAÇÕES RELEVANTES PARA UM AGENTE PERICÍAL NESSE DOCUMENTO",
+    "response": "O documento apresenta as seguintes informações relevantes para um agente pericial:\n\n1. Autora do processo: Eliane Rodrigues da Silva, representada pelo advogado Thiago Kusunoki Ferachin (OAB/MS 11.645).\n2. Réu: Tango Sport LTDA - ME, representada pela advogada Alciana Reolon Sanches.\n3. Valor da causa: R$ 98.182,88.\n4. Juiz responsável: Eliane Rodrigues da.\n5. A perícia será realizada no local de trabalho do reclamante para verificar as atividades desenvolvidas. O perito deverá informar ao Juízo sobre o local, data e horário com antecedência mínima de 10 dias.\n6. Em caso de impossibilidade de comparecimento do reclamante na perícia agendada, o motivo deve ser comprovado nos autos até o início da perícia.\n7. As partes devem juntar aos autos, se desejarem, documentos, exames clínicos, laudos, ultrassonografias, ressonâncias, atestados, ASOS, PPP, LTCAT, etc., que possam interferir no resultado da perícia, em até 05 dias corridos antes da data designada para a realização da perícia.\n8. Após a apresentação do laudo pericial, as partes serão intimadas para se manifestarem no prazo comum de 5 dias úteis.\n9. A apresentação do laudo pericial deve ocorrer no prazo de 15 dias após a realização da perícia, que deve ser feita no prazo máximo de 30 dias a partir da intimação da apresentação dos quesitos pelas partes.\n10. O documento também menciona a possibilidade de vistoria nos locais/setores de trabalho do reclamante para verificação das atividades desenvolvidas pelo mesmo.\n11. O documento menciona a necessidade de apresentação de exames complementares, se for o caso.\n12. O documento menciona a possibilidade de preclusão da realização da prova em caso de impossibilidade de comparecimento do reclamante na perícia agendada, salvo se comprovada a impossibilidade de fazê-lo.\n13. O documento menciona a possibilidade de preclusão da realização da prova em caso de não juntada de documentos, exames clínicos, laudos, ultrassonografias, ressonâncias, atestados, ASOS, PPP, LTCAT, etc..."
+  },
+  {
+    "timestamp": "2025-04-03T14:19:01.609349",
+    "user_input": "NÚMERO DE PAUSAS OU INTERVALOR E QUANTIDADE DE TEMPO",
+    "response": "A reclamante, Eliane Rodrigues da Silva, alega que trabalhou de segunda a sexta-feira, das 06:40h às 16:40h, com um intervalo de 1 hora para descanso das 12:00h às 13:00h. No entanto, ela afirma que não recebia o intervalo intrajornada adequado, pois trabalhava mais de 4 horas seguidas sem pausas tanto no período da manhã quanto no da tarde. Segundo a legislação citada (artigo 71, §1º da CLT), ela teria direito a um intervalo de no mínimo 30 minutos somados os dois períodos.\n\nPor outro lado, a defesa da ré, Tango Sport LTDA - ME, argumenta que todos os colaboradores, incluindo a reclamante, realizavam pausas durante a jornada de trabalho para prática de ginástica laboral. No entanto, o documento não especifica a duração dessas pausas. A defesa também afirma que, por ser a jornada superior a 6 horas, foi concedido à reclamante o intervalo de uma hora para descanso e alimentação."
+  },
+  {
+    "timestamp": "2025-04-03T14:19:01.616823",
+    "user_input": "NÚMERO DE PAUSAS OU INTERVALOR E QUANTIDADE DE TEMPO",
+    "response": "A reclamante, Eliane Rodrigues da Silva, alega que trabalhou de segunda a sexta-feira, das 06:40h às 16:40h, com um intervalo de 1 hora para descanso das 12:00h às 13:00h. No entanto, ela afirma que não recebia o intervalo intrajornada adequado, pois trabalhava mais de 4 horas seguidas sem pausas tanto no período da manhã quanto no da tarde. Segundo a legislação citada (artigo 71, §1º da CLT), ela teria direito a um intervalo de no mínimo 30 minutos somados os dois períodos.\n\nPor outro lado, a defesa da ré, Tango Sport LTDA - ME, argumenta que todos os colaboradores, incluindo a reclamante, realizavam pausas durante a jornada de trabalho para prática de ginástica laboral. No entanto, o documento não especifica a duração dessas pausas. A defesa também afirma que, por ser a jornada superior a 6 horas, foi concedido à reclamante o intervalo de uma hora para descanso e alimentação."
+  },
+  {
+    "timestamp": "2025-04-03T14:46:21.730283",
+    "user_input": "nome do autor",
+    "response": "O autor do processo é Eliane Rodrigues da Silva."
+  },
+  {
+    "timestamp": "2025-04-03T14:46:21.738462",
+    "user_input": "nome do autor",
+    "response": "O autor do processo é Eliane Rodrigues da Silva."
+  },
+  {
+    "timestamp": "2025-04-03T14:46:42.263589",
+    "user_input": "quais são as partes?",
+    "response": "As partes envolvidas no processo são:\n\nAutor: Eliane Rodrigues da Silva\nRéu: Tango Sport LTDA - ME"
+  },
+  {
+    "timestamp": "2025-04-03T14:46:42.269612",
+    "user_input": "quais são as partes?",
+    "response": "As partes envolvidas no processo são:\n\nAutor: Eliane Rodrigues da Silva\nRéu: Tango Sport LTDA - ME"
+  },
+  {
+    "timestamp": "2025-04-03T14:49:08.412155",
+    "user_input": "TRAZER TODAS AS INFORMAÇÕES RELEVANTES PARA UM AGENTE PERICÍAL NESSE DOCUMENTO",
+    "response": "As informações relevantes para um agente pericial neste documento são:\n\n1. A perícia deve ser realizada no prazo máximo de 30 dias a partir da intimação da apresentação dos quesitos pelas partes.\n\n2. O perito deve apresentar o laudo pericial no prazo de 15 dias após a realização da perícia.\n\n3. Se o perito achar necessário para a conclusão pericial, ele está autorizado a proceder com a vistoria nos locais/setores de trabalho do reclamante para verificar as atividades desenvolvidas pelo mesmo.\n\n4. O perito deve informar ao juízo sobre os locais, as datas e os horários da realização das perícias com a antecedência mínima de 10 dias, possibilitando que as partes sejam regularmente intimadas para ciência e acompanhamento dos trabalhos periciais.\n\n5. O perito também deve informar sobre a necessidade de apresentação de exames complementares, se for o caso, e esses devem ser anexados aos autos.\n\n6. As partes devem juntar aos autos, se desejarem, os demais documentos, exames clínicos, laudos, ultrassonografias, ressonâncias, atestados, ASOs, PPP, LTCAT, etc., que possam interferir no resultado da perícia em até 05 dias corridos antes da data designada para a realização da perícia.\n\n7. Em caso de impossibilidade de comparecimento do reclamante na perícia agendada, o motivo deve ser comprovado nos autos até o início da perícia, sob pena de preclusão da realização da prova. O reclamante responderá pelas custas da perícia designada e não realizada pela sua ausência.\n\n8. Após a apresentação do laudo, as partes serão intimadas para se manifestarem no prazo comum de 5 dias úteis, sob pena de preclusão."
+  },
+  {
+    "timestamp": "2025-04-03T14:49:08.422382",
+    "user_input": "TRAZER TODAS AS INFORMAÇÕES RELEVANTES PARA UM AGENTE PERICÍAL NESSE DOCUMENTO",
+    "response": "As informações relevantes para um agente pericial neste documento são:\n\n1. A perícia deve ser realizada no prazo máximo de 30 dias a partir da intimação da apresentação dos quesitos pelas partes.\n\n2. O perito deve apresentar o laudo pericial no prazo de 15 dias após a realização da perícia.\n\n3. Se o perito achar necessário para a conclusão pericial, ele está autorizado a proceder com a vistoria nos locais/setores de trabalho do reclamante para verificar as atividades desenvolvidas pelo mesmo.\n\n4. O perito deve informar ao juízo sobre os locais, as datas e os horários da realização das perícias com a antecedência mínima de 10 dias, possibilitando que as partes sejam regularmente intimadas para ciência e acompanhamento dos trabalhos periciais.\n\n5. O perito também deve informar sobre a necessidade de apresentação de exames complementares, se for o caso, e esses devem ser anexados aos autos.\n\n6. As partes devem juntar aos autos, se desejarem, os demais documentos, exames clínicos, laudos, ultrassonografias, ressonâncias, atestados, ASOs, PPP, LTCAT, etc., que possam interferir no resultado da perícia em até 05 dias corridos antes da data designada para a realização da perícia.\n\n7. Em caso de impossibilidade de comparecimento do reclamante na perícia agendada, o motivo deve ser comprovado nos autos até o início da perícia, sob pena de preclusão da realização da prova. O reclamante responderá pelas custas da perícia designada e não realizada pela sua ausência.\n\n8. Após a apresentação do laudo, as partes serão intimadas para se manifestarem no prazo comum de 5 dias úteis, sob pena de preclusão."
+  },
+  {
+    "timestamp": "2025-04-04T13:51:14.630254",
+    "user_input": "Nome do autor",
+    "response": "O autor do processo é Eliane Rodrigues da Silva."
+  },
+  {
+    "timestamp": "2025-04-04T13:51:14.653318",
+    "user_input": "Nome do autor",
+    "response": "O autor do processo é Eliane Rodrigues da Silva."
+  },
+  {
+    "timestamp": "2025-04-04T14:00:32.417957",
+    "user_input": "PARTICIPANTES DO ATO PERICIAL",
+    "response": "O ato pericial contou com a presença do reclamante, Alessandro da Silva. No entanto, o assistente técnico da reclamada não estava presente durante a perícia médica, que foi realizada às 11 horas do dia 29/11/2024 na Vara do Trabalho de Andradina. O perito do juízo que conduziu a perícia foi o Dr. Mauro Lopes Garcia Filho."
+  },
+  {
+    "timestamp": "2025-04-04T14:00:32.442665",
+    "user_input": "PARTICIPANTES DO ATO PERICIAL",
+    "response": "O ato pericial contou com a presença do reclamante, Alessandro da Silva. No entanto, o assistente técnico da reclamada não estava presente durante a perícia médica, que foi realizada às 11 horas do dia 29/11/2024 na Vara do Trabalho de Andradina. O perito do juízo que conduziu a perícia foi o Dr. Mauro Lopes Garcia Filho."
+  },
+  {
+    "timestamp": "2025-04-04T14:06:53.469153",
+    "user_input": "NOME DA CIDADE DE PROCEDÊNCIA DA VARA, DATA DA REALIZAÇÃO DA PERÍCIA",
+    "response": "A cidade de procedência da vara é Ponta Porã. A perícia será realizada no dia 14 de fevereiro de 2025."
+  },
+  {
+    "timestamp": "2025-04-04T14:06:53.489201",
+    "user_input": "NOME DA CIDADE DE PROCEDÊNCIA DA VARA, DATA DA REALIZAÇÃO DA PERÍCIA",
+    "response": "A cidade de procedência da vara é Ponta Porã. A perícia será realizada no dia 14 de fevereiro de 2025."
+  }
+]

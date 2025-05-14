@@ -1,0 +1,21 @@
+PyPDF2
+chainlit
+faiss-cpu==1.10.0
+huggingface_hub[hf_xet]==0.30.2
+langchain
+langchain-community
+langchain-openai
+numpy
+openai==1.75.0
+opencv-python
+pdf2image
+pt_core_news_md @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_md-3.8.0/pt_core_news_md-3.8.0-py3-none-any.whl
+pytesseract
+python-dotenv
+scikit-learn
+sentence-transformers
+spacy
+torch==2.6.0
+transformers==4.51.3
+unicodedata2
+huggingface_hub[hf_xet]==0.30.2
