@@ -1,0 +1,163 @@
+:root {
+  --primary-background: #121212;
+  --secondary-background: #1e1e1e;
+  --accent-color: #1e3a8a;
+  --text-color: #ffffff;
+  --border-color: #333;
+}
+
+/* Estilos gerais */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+} 
+
+/* Ocultar logos e referências do Chainlit */
+.cl-avatar-container img[src*="chainlit"],
+.cl-footer a[href*="chainlit"],
+.cl-footer-text,
+img[alt="Chainlit"],
+a[href*="chainlit.io"] {
+  display: none !important;
+}
+
+/* Ocultar o rodapé completamente */
+.cl-footer {
+  display: none !important;
+}
+
+/* Área de mensagens */
+.cl-message-container {
+  background-color: rgba(18, 18, 18, 0.8) !important;
+  padding: 1rem !important;
+}
+
+.cl-message-bubble {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2) !important;
+  padding: 0.75rem 1rem !important;
+  border-radius: 0.5rem !important;
+  margin-bottom: 0.75rem !important;
+}
+
+/* Input de mensagem */
+.cl-chat-input-container {
+  padding: 1rem !important;
+  position: sticky !important;
+  bottom: 0 !important;
+}
+
+.cl-chat-input {
+  border-radius: 0.5rem !important;
+  padding: 0.75rem 1rem !important;
+}
+
+/* Botão de envio */
+.cl-send-button {
+  border-radius: 0.5rem !important;
+  padding: 0.5rem 1rem !important;
+}
+
+/* Botão de upload */
+.cl-upload-button {
+  background-color: transparent !important;
+  border: 1px solid var(--border-color) !important;
+  border-radius: 0.5rem !important;
+  padding: 0.5rem !important;
+}
+
+/* Barra de rolagem personalizada */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+
+::-webkit-scrollbar-thumb {
+  background: #555;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #777;
+}
+
+/* Estilo para mensagens de sistema */
+.cl-system-message {
+  background-color: rgba(0, 0, 0, 0.3) !important;
+  padding: 0.75rem 1rem !important;
+  border-radius: 0.5rem !important;
+  margin-bottom: 0.75rem !important;
+}
+
+/* Estilo para o cabeçalho da aplicação */
+.cl-header {
+  padding: 0.75rem 1rem !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+}
+
+/* Estilos para a logo */
+img[alt="Avatar for Sistema Pericial"] {
+  width: 20px !important;
+  height: 20px !important;
+  object-fit: contain !important;
+}
+
+/* Força a atualização do favicon */
+link[rel="icon"] {
+  display: inline !important;
+}
+
+/* Garante que o contêiner da logo tenha o tamanho correto */
+.avatar-container, 
+div[role="img"],
+span.avatar {
+  width: 20px !important;
+  height: 20px !important;
+  overflow: visible !important;
+}
+
+/* Força a atualização do favicon */
+head::after {
+  content: '';
+  display: block;
+  position: absolute;
+  background: transparent;
+}
+
+/* Remova qualquer filtro que possa estar interferindo */
+[data-theme="light"] img[alt="Avatar for Sistema Pericial"],
+[data-theme="dark"] img[alt="Avatar for Sistema Pericial"] {
+  filter: none !important;
+}
+
+/* Painel de prompts */
+#prompt-panel {
+  transition: all 0.3s ease;
+  will-change: transform;
+  contain: layout style;
+}
+
+.prompt-button {
+  transition: background-color 0.2s;
+}
+
+.prompt-button:hover {
+  filter: brightness(1.2);
+}
+
+/* Estilos para telas menores */
+@media (max-width: 768px) {
+  #prompt-panel {
+    width: 250px;
+    right: 10px;
+    top: 70px;
+    max-height: calc(100vh - 80px);
+  }
+  
+  .prompt-button {
+    padding: 6px 10px;
+    font-size: 13px;
+  }
+}
