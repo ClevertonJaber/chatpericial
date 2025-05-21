@@ -2,7 +2,7 @@ FROM python:3.12-slim
 
 ENV DEBIAN_FRONTEND=noninteractive
 
-# Instala dependências do sistema
+# Instala dependências de sistema apenas o necessário
 RUN apt-get update && apt-get install -y \
     tesseract-ocr \
     tesseract-ocr-por \
@@ -16,11 +16,9 @@ RUN apt-get update && apt-get install -y \
 
 WORKDIR /app
 
+COPY requirements.txt ./
+RUN pip install --no-cache-dir -r requirements.txt
+
 COPY . .
 
-# Instala dependências Python sem cache
-RUN pip install -r requirements.txt && \
-    apt-get clean && \
-    rm -rf /var/lib/apt/lists/* ~/.cache/pip
-
-# O Railway vai usar o startCommand do railway.json, então não precisa CMD aqui
+# Railway usa startCommand do railway.json, não precisa CMD aqui!
