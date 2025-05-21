@@ -1697,7 +1697,7 @@ async def reset_user_session():
 @cl.on_chat_start
 async def on_chat_start():
 
-    elements = [cl.Image(name="image1", display="inline", path="./image1PeritoDoc.jpg")]
+    elements = [cl.Image(name="image1", display="inline", path="./previdenbot.png")]
     await cl.Message(content="Olá! Bem-vindo ao Assistente Jurídico Trabalhista e Previdenciário! Envie um documento para começar. 🤖", elements=elements).send()
 
     files = None
