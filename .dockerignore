@@ -5,3 +5,5 @@ __pycache__/
 .git/
 venv/
 models/
+pdf_juri2_debugado.py
+image1PeritoDoc.jpg
