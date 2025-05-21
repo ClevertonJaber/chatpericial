@@ -1,26 +1,20 @@
-# LangChain + integração com OpenAI
-langchain==0.1.13
-langchain-community==0.0.30
-langchain-openai==0.0.8
-
-# Vetorização e embeddings
-faiss-cpu==1.8.0
-sentence-transformers==2.6.1
-
-# OCR, PDF, imagem e texto
-PyPDF2==3.0.1
-pdf2image==1.17.0
-pytesseract==0.3.10
-opencv-python-headless==4.9.0.80
-numpy==1.26.4
-
-# Utilidades, env, logging, etc.
-scikit-learn==1.4.2
-python-dotenv==1.0.1
-unicodedata2==15.1.0
-chainlit==1.0.410
-
-# NLP (spaCy) - sem baixar modelo!
-spacy==3.7.4
-pt_core_news_md @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_md-3.8.0/pt_core_news_md-3.8.0-py3-none-any.whl
+PyPDF2
+chainlit
+faiss-cpu==1.10.0
 huggingface_hub[hf_xet]==0.30.2
+langchain
+langchain-community
+langchain-openai
+numpy
+openai==1.75.0
+opencv-python
+pdf2image
+pt_core_news_md @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_md-3.8.0/pt_core_news_md-3.8.0-py3-none-any.whl
+pytesseract
+python-dotenv
+scikit-learn
+sentence-transformers
+spacy
+torch==2.6.0
+transformers==4.51.3
+unicodedata2
