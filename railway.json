@@ -5,7 +5,7 @@
     "dockerfilePath": "./Dockerfile"
   },
   "deploy": {
-    "startCommand": "bash -c 'chainlit run pdf_juri2_debugado.py --host 0.0.0.0 --port 8080 --debug'",
+    "startCommand": "bash -c 'chainlit run pdf_juri2.py --host 0.0.0.0 --port 8080 --debug'",
     "restartPolicyType": "ON_FAILURE",
     "restartPolicyMaxRetries": 10
   }
