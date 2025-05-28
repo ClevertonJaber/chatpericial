@@ -1,9 +1,0 @@
-*.pdf
-__pycache__/
-*.pyc
-*.pyo
-.git/
-venv/
-models/
-pdf_juri2_debugado.py
-image1PeritoDoc.jpg
