@@ -2,7 +2,7 @@ FROM python:3.12-slim
 
 ENV DEBIAN_FRONTEND=noninteractive
 
-# Instala dependências de sistema apenas o necessário
+# Instala dependências de sistema necessárias
 RUN apt-get update && apt-get install -y \
     tesseract-ocr \
     tesseract-ocr-por \
@@ -19,6 +19,10 @@ WORKDIR /app
 COPY requirements.txt ./
 RUN pip install --upgrade pip && pip install --no-cache-dir -r requirements.txt
 
+# Instala o modelo do spaCy diretamente aqui
+RUN python -m spacy download pt_core_news_md
+
 COPY . .
 
-# Railway usa startCommand do railway.json, não precisa CMD aqui!
+# Expõe a porta padrão para o Railway (opcional, mas recomendado)
+EXPOSE 8080
