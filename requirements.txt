@@ -1,6 +1,6 @@
 PyPDF2
 chainlit
-faiss-cpu==1.10.0
+faiss-cpu
 huggingface_hub[hf_xet]==0.30.2
 langchain
 langchain-community
