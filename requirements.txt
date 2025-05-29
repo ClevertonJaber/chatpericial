@@ -9,12 +9,11 @@ numpy
 openai==1.75.0
 opencv-python
 pdf2image
-pt_core_news_md @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_md-3.8.0/pt_core_news_md-3.8.0-py3-none-any.whl
 pytesseract
 python-dotenv
 scikit-learn
 sentence-transformers
 spacy
-torch==2.6.0
-transformers==4.51.3
+torch==2.0.1+cpu --extra-index-url https://download.pytorch.org/whl/cpu
+transformers==4.35.2
 unicodedata2
