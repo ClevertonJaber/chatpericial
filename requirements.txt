@@ -10,6 +10,7 @@ openai==1.75.0
 opencv-python
 pdf2image
 pytesseract
+pt_core_news_md @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_md-3.8.0/pt_core_news_md-3.8.0-py3-none-any.whl
 python-dotenv
 scikit-learn
 sentence-transformers
