@@ -592,7 +592,7 @@ def extract_pericial_metadata(text: str):
 
 @cl.on_chat_start
 async def on_chat_start():
-    elements = [cl.Image(name="image1", display="inline", path="image1PeritoDoc.jpg")]
+    elements = [cl.Image(name="image1", display="inline", path="previdenbot.png")]
     await cl.Message(content="Olá! Bem-vindo ao Chat Pericial! Envie um PDF para começar. 🤖", elements=elements).send()
 
     files = None
