@@ -6,6 +6,9 @@ ENV TORCH_HOME=/tmp/torch
 
 # Instala dependências do sistema
 RUN apt-get update && apt-get install -y \
+    build-essential \
+    cmake \
+    ninja-build \
     tesseract-ocr \
     tesseract-ocr-por \
     poppler-utils \
