@@ -24,7 +24,6 @@ WORKDIR /app
 COPY . .
 
 # Instala dependências Python sem cache
-RUN pip install --upgrade pip && \
-    pip install --no-binary :all: --no-cache-dir -r requirements.txt
+RUN pip install --upgrade pip && pip install --no-cache-dir -r requirements.txt
 
 # O Railway vai usar o startCommand do railway.json, então não precisa CMD aqui
